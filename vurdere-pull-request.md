@@ -5,7 +5,7 @@
 3. Sjekk koden mot relevante kriterier under (og alt annet du kan komme på)
 4. Kommenter mangler og ting som er bra
 5. Godkjenn hvis alt ser bra ut
-6. **Uansett:** Si fra på slack (i #team-aasmund-pr / #team-tuan-pr) at pull requesten har kommentarer eller er godkjent
+6. **Uansett:** Si fra på slack (i #team-aasmund-pr / #team-tuan-github) at pull requesten har kommentarer eller er godkjent
 
 ## Endepunkter
 

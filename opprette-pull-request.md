@@ -13,5 +13,5 @@ Sjekk at:
 
 - Link til Jira-issue i beskrivelsen
 - Kopier inn akseptansekriteriene i beskrivelsen
-- Be om tilbakemelding i kanalen #team-aasmund-pr / #team-tuan-pr
+- Be om tilbakemelding i kanalen #team-aasmund-pr / #team-tuan-github
 - Flytt Jira-issuet til "Fagfellevurdering"
