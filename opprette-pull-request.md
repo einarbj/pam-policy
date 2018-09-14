@@ -7,6 +7,7 @@ Sjekk at:
 - Koden bygger lokalt
 - Tester kjører OK lokalt
 - Linter e.l. er kjørt for frontend-prosjekter
+- Commitmeldinger inneholder Jira-issue og beskriver hva som er endret i commitene.
 - Akseptansekriteriene i brukerhistorien er oppfylt
 
 ## Når pull request opprettes
